@@ -1,4 +1,4 @@
-import RailsService from '../../services/RailsService';
+import RailsService from '../services/RailsService';
 
 const SET_GREET = 'messages/greet/SET_GREET';
 

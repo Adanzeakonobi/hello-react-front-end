@@ -1,4 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
+// import Greeting from './components/greeting/Greeting';
 import Greeting from './components/greeting/Greeting';
 
 function App() {
